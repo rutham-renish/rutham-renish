@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rutham-renish
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Unreal Engine
+- 🌱 I’m currently learning GDScript (Godot Engine’s Coding Language)
 - 🧠 I know the basics of Python, C++, HTML/CSS, Java Advanced
 - 📫 You can reach me on ruthamrenish@gmail.com
 - 👾 I am a Geometry Dash, Minecraft and Fortnite gamer
