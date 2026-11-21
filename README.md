@@ -4,8 +4,7 @@
 - 🧠 I know Python, C++, Java, HTML/CSS
 - 📫 You can reach me on ruthamrenish@gmail.com
 - 👾 I am a Geometry Dash, Minecraft and Fortnite gamer
-- 🟨 My hardest is Skeletal Shenanigans
-
+- 🟨 My hardest is TOE 3 by Mathiscreator
 
 
 <!---
